@@ -37,10 +37,9 @@ The "Plant Leaf Disease Detection System Using AI Algorithms" repository contain
  
  
 ## Usage
-1.Open the Jupyter Notebook file.
-2.Follow the instructions to load the dataset and train the model.
-3.Use the Tkinter interface to upload leaf images and get disease predictions.
-
+1. Open the Jupyter Notebook file.
+2. Follow the instructions to load the dataset and train the model.
+3. Use the Tkinter interface to upload leaf images and get disease predictions.
 
 ## License
 
