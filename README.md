@@ -23,8 +23,8 @@ The "Plant Leaf Disease Detection System Using AI Algorithms" repository contain
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Plant-Leaf-Disease-Detection.git
-   cd Plant-Leaf-Disease-Detection
+   git clone https://github.com/yourusername/Plant-Leaf-Disease-Detection-System.git
+   cd Plant-Leaf-Disease-Detection-System
 
 2.Install dependencies:
   ```bash
